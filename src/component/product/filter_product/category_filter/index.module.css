@@ -1,0 +1,30 @@
+.categoryLink,.categoryLinkActive {
+    padding: 10px 15px;
+    margin-right: 5px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #696a6f;
+    border-radius: 12px;
+    font-weight: 600;
+}
+
+.categoryLink:hover {
+    background: #2fb512;
+    color: #ffffff;
+}
+
+.categoryList {
+    margin: 0;
+    float: left;
+    list-style: none;
+    padding: 0;
+}
+
+.categoryList>li {
+    float: left;
+}
+
+.categoryLinkActive {
+    background-color: #2fb512;
+    color: #ffffff;
+}

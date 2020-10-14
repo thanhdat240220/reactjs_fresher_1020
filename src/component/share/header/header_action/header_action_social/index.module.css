@@ -1,0 +1,26 @@
+
+
+.headerActionItem {
+    float: left;
+    margin-right: 0.5em;
+}
+
+.socialLink {}
+
+.socialImage {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.socialKakao {
+    background-position: -398px -185px;
+}
+
+.socialFace {
+    background-position: -348px -185px;
+}
+
+.socialZalo {
+    background-position: -423px -185px;
+}

@@ -1,0 +1,19 @@
+.headerActionCart{
+    height: 22px;
+}
+
+.cartIcon{
+    margin:0 5px
+}
+
+.actionCartLink{
+    color: #696a6f;
+}
+
+.actionCartLink:active {
+    color: #696a6f;
+}
+
+.actionCartLink:focus{
+    color: #696a6f;
+}

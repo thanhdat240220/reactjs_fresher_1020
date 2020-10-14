@@ -1,0 +1,16 @@
+.filter {}
+
+.filterInner {
+    margin: 0px 185px;
+    padding: 10px 15px 18px 15px;
+    display: grid;
+    grid-template-columns: 8fr 2fr;
+    border-bottom: 1px solid #d8d8d8a1;
+}
+
+.categoryFilter {
+    display: flex;
+    align-items: center;
+}
+
+.searchFilter {}

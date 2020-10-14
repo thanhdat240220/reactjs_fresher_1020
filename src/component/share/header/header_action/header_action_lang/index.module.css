@@ -1,0 +1,17 @@
+.headerActionItem {
+    float: left;
+    margin-right: 0.5em;
+}
+
+.changeLangue {
+    height: 17px;
+    outline: none;
+    padding: 1px;
+    display: block;
+}
+
+.changeLangue._active {
+    border: 1px solid #2fb512;
+}
+
+.imgLangue {}

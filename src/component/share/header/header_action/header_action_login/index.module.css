@@ -1,0 +1,32 @@
+.actionLoginIcon {
+    vertical-align: middle;
+}
+
+.actionLoginLink:active {
+    color: #696a6f;
+}
+
+.actionLoginLink:focus {
+    color: #696a6f;
+}
+
+.actionLoginLink {
+    color: #696a6f;
+}
+
+.headerActionLogin {
+    height: 22px;
+}
+
+.actionLoginInfo {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.actionLoginInfo:hover {
+    color: #2fb512;
+}
+
+.loginIcon {
+    margin: 0 5px;
+}

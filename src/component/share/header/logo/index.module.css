@@ -1,0 +1,27 @@
+.p {
+    margin: 0 auto;
+    width: 60px;
+    height: 80px;
+    background: url(/./dist/css/4aefa4e….png) no-repeat scroll transparent;
+    background-size: 100%;
+}
+
+.a {
+    display: block;
+    width: 60px;
+    height: 80px;
+}
+
+.__h_logo {
+    margin: 0 auto;
+    width: 60px;
+    height: 80px;
+    background-size: 100%;
+}
+
+.__logo_header {
+    float: left;
+    margin-top: 20px;
+    width: 60px;
+    height: 80px;
+}

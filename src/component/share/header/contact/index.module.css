@@ -1,0 +1,30 @@
+.headerContact {
+    float: left;
+}
+
+.headerContactList {
+    list-style: none;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.contactItem {
+    float: left;
+    margin-right: 1rem;
+}
+
+.contactItemLink {
+    font-size: 13px;
+    font-weight: 600;
+    color: #696a6f;
+}
+
+.phoneIcon, .emailIcon, .phoneSpan, .emailSpan {
+    vertical-align: middle;
+    margin-left: 0.5em;
+}
+
+.phoneSpan:hover,.emailSpan:hover{
+    color: #2fb512;
+}

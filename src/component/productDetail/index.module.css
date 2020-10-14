@@ -1,0 +1,167 @@
+.productDetailMain {
+    background-color: #68a3f4;
+    color: #ffffff;
+}
+
+.productDetailMainInner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 25px 70px 0;
+    margin: 0 30px 100px;
+    min-height: 380px;
+}
+
+.slickSlider {
+    flex: 0 0 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.slickSliderInner {}
+
+.productInfo {
+    flex: 0 0 50%;
+}
+
+.productInfoInner {
+    padding-left: 20px;
+    padding-right: 115px;
+}
+
+.productInfoDes {
+    margin: 0px;
+    padding: 15px 0px 10px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.productType {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    /* font-weight: 500; */
+    margin-bottom: 10px;
+}
+
+.productName {
+    margin: 0px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+.productDes {
+    margin: 0px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.price {
+    padding: 15px 0 10px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.priceStatus {
+    margin-bottom: 10px;
+}
+
+.priceCalculate {
+    font-size: 25px;
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.priceDef {
+    font-size: 19px;
+    text-decoration: line-through;
+}
+
+.rent {
+    margin-bottom: 10px;
+    display: flex
+}
+
+.priceRentInfo {
+    flex: 0 0 40%;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+}
+
+.priceRent {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.quantity {
+    padding: 15px 0 10px;
+    display: flex;
+}
+
+.quantityInfo {
+    font-weight: 600;
+    flex: 0 0 40%;
+    display: flex;
+    align-items: center;
+}
+
+.quantityButton {
+}
+
+.groundButton {
+    display: flex;
+}
+
+.buttonItem {
+    background: transparent;
+    outline: none;
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+    padding: 7px 10px;
+}
+
+.buttonItem:hover{
+    background-color: #56b616;
+    cursor: pointer;
+}
+
+.buttonDecrement {
+    border-right: unset;
+    border-top-right-radius: unset;
+    border-bottom-right-radius: unset;
+}
+
+.inputQuantity {
+    max-width: 50px;
+    background: transparent;
+    text-align: center;
+    border: 1px solid #fff;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    outline: unset;
+}
+
+.buttonIncrement {
+    border-left: unset;
+    border-top-left-radius: unset;
+    border-bottom-left-radius: unset;
+}
+
+.cusContainerSlider{
+   height: unset;
+}
+
+.cusClassSlider{
+    width: 368px;
+    height: 368px;
+    margin:0 35px;
+}
+
+.cusClassSlider img{
+    width: 368px;
+}
+
+.iconClass{
+    color: #ffffff;
+}

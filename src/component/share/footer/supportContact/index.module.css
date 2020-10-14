@@ -1,0 +1,24 @@
+.supportContactList {
+    padding: 0;
+    padding-right: 35px;
+    float: right;
+}
+
+.socialFooter {
+    float: right;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.socialTitle{
+    float: right;
+}
+
+.linkAppFooter {
+    float: right;
+    margin-bottom: 10px;
+}
+
+.linkAppItem {
+    margin-left: 5px    ;
+}

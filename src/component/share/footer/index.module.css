@@ -1,0 +1,11 @@
+.footer {
+    overflow: hidden;
+    position: relative;
+    background-color: #2fb512;
+    padding: 0;
+}
+
+.footerInner {
+    padding-top: 30px;
+    color: white;
+}

@@ -1,0 +1,100 @@
+.productListItem {}
+
+.productItemInner {
+    margin-bottom: 40px;
+    padding: 0 30px;
+}
+
+.productItemInner:hover .productAction {
+    opacity: 1;
+}
+
+.productImg {
+    position: relative;
+}
+
+.productAction {
+    position: absolute;
+    top: 50%;
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.actionAdd {
+    height: 30px;
+    font-size: 14px;
+    border-radius: 29px;
+    padding: 0px 13px;
+    transition: 0.5s;
+    color: #fff;
+    background-color: #28a745;
+    cursor: pointer;
+    border: none;
+    margin-left: 3px;
+}
+
+.actionBought {
+    height: 30px;
+    font-size: 14px;
+    border-radius: 29px;
+    padding: 0px 13px;
+    transition: 0.5s;
+    color: black;
+    background-color: #fff;
+    cursor: pointer;
+    border: none;
+    margin-left: 3px;
+}
+
+.productInfo {}
+
+.productTitle {
+    font-size: 13px;
+    margin: 0;
+    margin-bottom: 7px;
+}
+
+.productTitle>a {
+    color: #696a6f;
+}
+
+.productPrice {
+    margin: 0;
+    margin-bottom: 7px;
+}
+
+.productPriceCur {
+    font-size: 15px;
+    color: #009688;
+    font-weight: 600;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.productPriceDef {
+    font-size: 12px;
+    font-weight: 500;
+    color: red;
+    text-decoration: line-through;
+}
+
+.productRent {
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+.productTagImg {
+    width: 100%;
+}
+
+.productImgLink {}
+
+.rentPrice {
+    color: #009688;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.rentInfo {
+    font-size: 14px;
+}

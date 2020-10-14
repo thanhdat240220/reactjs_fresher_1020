@@ -1,0 +1,17 @@
+.navItemInfo {}
+
+.navItemLink {
+    color: #696a6f;
+    vertical-align: middle;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.navItemLink._active{
+    color: #2fb512;
+}
+
+.navItemLink:hover {
+    color: #2fb512;
+}
